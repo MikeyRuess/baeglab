@@ -55,7 +55,7 @@ Research interests:
 
 
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.baeglab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://mikeyruess.github.io/baeglab/openings/) **!**
 
 
 
