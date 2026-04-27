@@ -1,6 +1,8 @@
 ---
-title: "FMSA - Baeg Lab"
-layout: page
+title: "Baeg Lab - FMSA"
+layout: textlay
+excerpt: "Baeg Lab -- FMSA"
+sitemap: false
 permalink: /fmsa/
 ---
 
