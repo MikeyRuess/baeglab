@@ -3,8 +3,8 @@ description: Gyeong Hun Baeg Lab at the University of Macau
 baseurl: "/baeglab"
 url: "https://mikeyruess.github.io"
 
-email: your-email@um.edu.mo
-author: Henry Kwok
+email: ghbaeg@um.edu.mo
+author: Gyeong Hun BAEG
 
 include:
   - _pages
