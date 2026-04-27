@@ -26,8 +26,8 @@ We are  looking for new group members with passion, talent, and grit!
 
 
 
-### Bsc / Master students from elsewhere
-If you are a BSc/ Master student at University of Macau looking for a BSc/ Master project, contact me (or any group member) per email or stop by my office.
+### Undergraduate / Master students
+If you are a Undergraduate/ Master student at University of Macau looking for a Undergraduate/ Master project, contact me (or any group member) per email or stop by my office.
 
 
 <figure>
