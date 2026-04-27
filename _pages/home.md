@@ -5,10 +5,10 @@ excerpt: "Baeg Lab at University of Macau; UM."
 sitemap: false
 permalink: /
 ---
-Research interests:</p>
--Redox biology in stem cell self-renewal and ageing using the fruit fly Drosophila</p>
--JAK/STAT signalling in cancer and development</p>
--Nanotoxicity using Drosophila as a platform
+<p>Research interests:</p>
+<p>- Redox biology in stem cell self-renewal and ageing using the fruit fly Drosophila</p>
+<p>- JAK/STAT signalling in cancer and development</p>
+<p>- Nanotoxicity using Drosophila as a platform</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
