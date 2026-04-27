@@ -14,15 +14,15 @@ We are  looking for new group members with passion, talent, and grit!
 
 ### Postdoctoral Research Fellow/Associate position
 
-https://fhs.um.edu.mo/en/about-fhs/opportunities-in-fhs/job-vacancies/
+[FHS Job Vacancies](https://fhs.um.edu.mo/en/about-fhs/opportunities-in-fhs/job-vacancies/)
 
-https://rskto.um.edu.mo/umtp/#02 (UM Talent Programme – Research Services and Knowledge Transfer Office | University of Macau)
+[UM Talent Programme (UMTP)](https://rskto.um.edu.mo/umtp/#02) – Research Services and Knowledge Transfer Office, University of Macau
 
 ### PhD position
 
-https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/ (Scholarship)
+[UM Macao PhD Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/)
 
-https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/ (Assistantship)
+[PhD Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/)
 
 
 
