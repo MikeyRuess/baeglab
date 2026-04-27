@@ -1,8 +1,9 @@
 ---
-title: "FMSA - Baeg Lab"
-layout: page
+title: "Baeg Lab - FMSA"
+layout: textlay
+excerpt: "FMSA"
+sitemap: false
 permalink: /fmsa/
 ---
-# FMSA
 
-Content for FMSA goes here. You can write about the program, your involvement, etc.
+# Flight Muscle Sarcopenia atlas
