@@ -3,7 +3,7 @@ title: "Teaching"
 layout: textlay
 excerpt: "Practicals"
 sitemap: false
-permalink: /teaching.html
+permalink: /teaching/
 ---
 # Lecture
 HSCI2008 Human Anatomy
