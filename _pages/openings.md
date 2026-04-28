@@ -31,5 +31,5 @@ If you are a Undergraduate/ Master student at University of Macau looking for a 
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flycircle.jpg" width="95%">
 </figure>
