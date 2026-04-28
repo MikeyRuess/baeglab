@@ -49,6 +49,6 @@ permalink: /
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UM_logo.jpg" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FHS.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FDCT.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FHS_logo.jpg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FDCT_logo.jpg" style="width: 150px">
 </figure>
