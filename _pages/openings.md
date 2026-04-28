@@ -16,7 +16,7 @@ We are  looking for new group members with passion, talent, and grit!
 
 [FHS Job Vacancies](https://fhs.um.edu.mo/en/about-fhs/opportunities-in-fhs/job-vacancies/)
 
-[UM Talent Programme (UMTP)](https://rskto.um.edu.mo/umtp/#02) – Research Services and Knowledge Transfer Office, University of Macau
+[UM Talent Programme (UMTP)](https://rskto.um.edu.mo/umtp/#02)
 
 ### PhD position
 
