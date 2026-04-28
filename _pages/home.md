@@ -15,7 +15,6 @@ permalink: /
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Items -->
@@ -24,10 +23,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMscene.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flycircle.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAP.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMscene2.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
