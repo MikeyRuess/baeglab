@@ -3,7 +3,7 @@ title: "Baeg Lab - DLMA"
 layout: textlay
 excerpt: "Baeg Lab -- DLMA"
 sitemap: false
-permalink: /fmsa/
+permalink: /dlma/
 ---
 
 # Dorsal Longitudinal Muscles Atlas
